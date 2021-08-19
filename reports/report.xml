@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Search job on epam.com" time="20.515" tests="4" failures="0" errors="0" skipped="0">
+    <testcase name="Open Careers page" classname="search-job-on-epam.com;open-careers-page" time="7.377"/>
+    <testcase name="Fill in Search Form and find job" classname="search-job-on-epam.com;fill-in-search-form-and-find-job" time="4.705"/>
+    <testcase name="Fill in Search Form and find job" classname="search-job-on-epam.com;fill-in-search-form-and-find-job" time="4.139"/>
+    <testcase name="Fill in Search Form and find job" classname="search-job-on-epam.com;fill-in-search-form-and-find-job" time="4.294"/>
+  </testsuite>
+</testsuites>
